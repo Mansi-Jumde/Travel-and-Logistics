@@ -1,0 +1,10 @@
+Source,Destination,Weight
+A,B,5
+B,C,10
+D,C,10
+A,E,5
+E,C,5
+A,D,20
+F,A,10
+C,F,5
+B,D,5
