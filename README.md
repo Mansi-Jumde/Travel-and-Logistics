@@ -3,7 +3,7 @@
 A Python-based project that calculates and visualizes the shortest route between cities using the Bellman-Ford algorithm.
 It handles negative edge weights, detects negative cycles, and provides an interactive visualization of computed routes.
 
-🧭 Overview
+ Overview
 
 This project models a transportation or network system as a weighted directed graph, where:
 
@@ -17,7 +17,7 @@ Route_Backend.py – Computes the shortest paths using the Bellman-Ford algorith
 
 Route_Visualizer.py – Reads stored route data and visualizes it using NetworkX and Matplotlib.
 
-🎯 Objectives
+Objectives
 
 -Implement the Bellman-Ford Algorithm for route optimization.
 
@@ -29,7 +29,7 @@ Route_Visualizer.py – Reads stored route data and visualizes it using NetworkX
 
 -Provide graphical output of the optimal paths between cities.
 
-⚙️ Algorithm & Techniques
+Algorithm & Techniques
 
 Algorithm Used: Bellman-Ford Algorithm with Memoization
 
@@ -44,7 +44,7 @@ Pandas :	Efficiently handles CSV input/output
 
 Time Complexity: O(V × E) — efficient for small and medium networks.
 
-🧩 Future Scope
+Future Scope
 -Develop a GUI using Tkinter or Streamlit.
 
 -Integrate with Google Maps API or OpenStreetMap.
@@ -55,7 +55,7 @@ Time Complexity: O(V × E) — efficient for small and medium networks.
 
 -Incorporate real-time traffic updates via external APIs.
 
-👩‍💻 Contributors
+Contributors
 
 Mansi Jumde (2nd year, CSE core, Sec: A3,Roll No: 09, Batch: B1)
 
